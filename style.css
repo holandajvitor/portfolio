@@ -87,7 +87,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
-    border: 2.5px solid var(--cor-terciaria);
+    border: 2px solid var(--cor-terciaria);
     color:  var(--cor-secundaria); 
     width: 50%;
     text-align: center;
